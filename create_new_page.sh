@@ -1,4 +1,4 @@
-echo "hello"
+﻿echo "hello"
 yy=$(date +%Y)
 mm=$(date +%m)
 dd=$(date +%d)
@@ -17,7 +17,7 @@ echo > $filename$filepostfix
 echo "---" >> $filename$filepostfix
 echo "title: $filename" >> $filename$filepostfix
 echo "date: $yy-$mm-$dd $HH:$MM:$SS" >> $filename$filepostfix
-echo "tags: [2222,3333,4444]" >> $filename$filepostfix
+echo "tags: [列表,2222,3333,4444]" >> $filename$filepostfix
 echo "categories: 5555" >> $filename$filepostfix
 echo "toc: true" >> $filename$filepostfix
 echo "mathjax: true" >> $filename$filepostfix
