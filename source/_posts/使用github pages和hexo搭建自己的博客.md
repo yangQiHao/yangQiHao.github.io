@@ -1,7 +1,7 @@
 ---
 title: 使用github pages和hexo搭建自己的博客
 date: 2018-03-27 12:00:00
-tags: [github,pages,hexo]
+tags: [列表,github,pages,hexo]
 categories: 配置
 toc: true
 mathjax: true

@@ -4,6 +4,7 @@ date: 2018-03-27 11:00:00
 tags: 
 	- git
 	- 配置
+	- 列表
 categories: 配置
 toc: true
 mathjax: true

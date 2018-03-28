@@ -1,7 +1,7 @@
 ---
 title: hexo的主题相关的配置
 date: 2018-03-27 13:00:00
-tags: [githubpages,hexo,配置]
+tags: [列表,githubpages,hexo,配置]
 categories: 配置
 toc: true
 mathjax: true

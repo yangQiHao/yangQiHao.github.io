@@ -2,7 +2,7 @@
 ---
 title: hexo部署在github和gitee上的坑
 date: 2018-03-28 10:00:53
-tags: [hexo,github,gitee,部署]
+tags: [列表,hexo,github,gitee,部署]
 categories: 配置
 toc: true
 mathjax: true
