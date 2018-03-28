@@ -22,5 +22,6 @@ echo "categories: 5555" >> $filename$filepostfix
 echo "toc: true" >> $filename$filepostfix
 echo "mathjax: true" >> $filename$filepostfix
 echo "---" >> $filename$filepostfix
-
+echo "" >> $filename$filepostfix
+echo "<!-- more -->" >> $filename$filepostfix
 cd ../..

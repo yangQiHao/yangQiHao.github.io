@@ -10,7 +10,7 @@ mathjax: true
 
 本文介绍如何将hexo源文件整合到部署的git中，实现不携带源文件也能写博客，其中，发布和部署实现了自动化脚本操作。
 
-<!-- xxxx -->
+<!-- more -->
 
 ## 先决条件
 - 已经使用了hexo部署了自己的blog
@@ -52,6 +52,8 @@ echo "categories: 5555" >> $filename$filepostfix
 echo "toc: true" >> $filename$filepostfix
 echo "mathjax: true" >> $filename$filepostfix
 echo "---" >> $filename$filepostfix
+echo "" >> $filename$filepostfix
+echo "<!-- more -->" >> $filename$filepostfix
 cd ../..
 ```
 - 文本1 commit.txt
