@@ -1,4 +1,4 @@
-锘縠cho "hello"
+echo "hello"
 yy=$(date +%y)
 mm=$(date +%m)
 dd=$(date +%d)
@@ -13,7 +13,7 @@ xD=$(date +%j)
 git status
 git add .
 git commit -m "
-$yy/$mm/$dd-$HH:$MM:$SS blog婧愭枃浠舵墭绠″埌hexo鍒嗘敮
+$yy/$mm/$dd-$HH:$MM:$SS 更改了脚本文件的结构
 "
 git push origin hexo
 git  log --oneline | head
