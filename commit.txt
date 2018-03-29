@@ -16,12 +16,7 @@ git commit -m "
 $yy/$mm/$dd-$HH:$MM:$SS 同时部署到两个服务器上测试
 "
 
-git push git@github.com:xjdlb/xjdlb.github.io.git hexo
-git  log --oneline | head
-
-echo "=================================="
-
-git push git@gitee.com:bin_lee/bin_lee.git hexo
+git push git@192.168.231.134:/var/www/blog.git hexo
 git  log --oneline | head
 
 echo "=================================="
