@@ -15,7 +15,13 @@ git add .
 git commit -m "
 $yy/$mm/$dd-$HH:$MM:$SS 新增了列表标签
 "
-git push origin hexo
+
+git push git@github.com:xjdlb/xjdlb.github.io.git hexo
+git  log --oneline | head
+
+echo "=================================="
+
+git push git@gitee.com:bin_lee/bin_lee.git hexo
 git  log --oneline | head
 
 echo "=================================="
