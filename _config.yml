@@ -80,7 +80,6 @@ theme: next
 deploy: 
   type: git
   repo: 
-        github: git@github.com:xjdlb/xjdlb.github.io.git
         gitee: git@gitee.com:bin_lee/bin_lee.git
   branch: master
   

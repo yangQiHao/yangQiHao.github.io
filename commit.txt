@@ -16,8 +16,7 @@ git commit -m "
 $yy/$mm/$dd-$HH:$MM:$SS 新增了列表标签
 "
 
-git push git@github.com:xjdlb/xjdlb.github.io.git hexo
-git  log --oneline | head
+
 
 echo "=================================="
 
