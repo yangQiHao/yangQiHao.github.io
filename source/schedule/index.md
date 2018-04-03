@@ -1,5 +1,5 @@
 ---
-title: 自言自语
+title: 札记
 date: 2018-04-03 13:18:11
 tags: [列表]
 type: "schedule"
@@ -22,4 +22,5 @@ comments: false
 </center>
 
 ## 2018年3月
-- 要答辩了，没有进入状态，无聊的时候写个网站玩一下[地址](https://leebin.top/)。
+- 节后完善论文
+- 要答辩了，还没有进入状态，三天无聊时间写个网站玩一下[地址](https://leebin.top/)。
