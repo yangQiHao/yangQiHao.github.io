@@ -13,12 +13,11 @@ mathjax: true
 
 ## 步骤
 - 找到配置文件
-``java
+```
 blog/themes/next/layout/_third-party/comments/valine.swig
 ```
-
 - 配置如下
-```js
+```
 {% if theme.valine.enable and theme.valine.appid and theme.valine.appkey %}
   <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
   <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
