@@ -13,10 +13,10 @@ xD=$(date +%j)
 git status
 git add .
 git commit -m "
-$yy/$mm/$dd-$HH:$MM:$SS 同时部署到两个服务器上测试
+$yy/$mm/$dd-$HH:$MM:$SS 五一放假
 "
 
-git push git@165.227.213.57:/home/git/blog.git hexo
+git push git@192.168.231.134:/var/www/blog.git hexo
 git  log --oneline | head
 
 echo "=================================="
