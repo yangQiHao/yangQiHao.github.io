@@ -1,4 +1,5 @@
-
+echo ""
+echo ""
 echo "==============================="
 echo "start to backup the repository..."
 echo "==============================="
