@@ -20,7 +20,7 @@ git commit -m "
 $yy/$mm/$dd-$HH:$MM:$SS 五一放假
 "
 
-git push git@165.227.213.57:/home/git/blog.git hexo
+git push git@github.com:yangQiHao/yangQiHao.github.io.git hexo
 git  log --oneline | head
 
 echo "--------------------------"
