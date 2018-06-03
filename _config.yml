@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 初心
+title: 影子柠檬休闲会所
 subtitle:
-description: 路漫漫其修远兮，吾将上下而求索
+description: 看不见的路，认不出的人
 keywords:
-author: LeeBin
+author: YangQiHao
 language: zh-Hans
 timezone:
 
@@ -79,7 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: git@github.com:yangQiHao/yangQiHao.github.io.git
+  repo: https://github.com/yqh1862959/yqh1862959.github.io.git
   branch: master
 
 search:
